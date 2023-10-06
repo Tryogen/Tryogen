@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tryogen / Jakab Siska ;
+- 👋 Hi, I’m Jakab Siska / @Tryogen ;
 - 👀 I’m interested in unity game development and web development.;
 - 🌱 I’m currently learning both.;
 - 💞️ I’m looking to collaborate on small project for new experiences.;
